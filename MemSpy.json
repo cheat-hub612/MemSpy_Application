@@ -1,4 +1,5 @@
 {
-  "sha256": "a3f5...64chars",
-  "sig": "BASE64_SIGNATURE"
+    "apps": {
+        "0": "https://gist.githubusercontent.com/cheat-hub612/fa8fc969c1558a5b881ff0e05d1b52e1/raw/gistfile1.txt"
+    }
 }
