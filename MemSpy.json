@@ -1,6 +1,30 @@
 {
-    "apps": {
-        "0": "https://gist.githubusercontent.com/cheat-hub612/fa8fc969c1558a5b881ff0e05d1b52e1/raw/gistfile1.txt"
+  "users": [
+    {
+      "username": "salaar",
+      "password": "4444",
+      "hwid": "6f053d353f822964b4922d830e78cfbda7487616584788c4a74ec69d69ca816d",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 2,
+          "clientGistUrl": "https://raw.githubusercontent.com/.../test1_app2.txt"
+        }
+      ]
+    },
+    {
+      "username": "test2",
+      "password": "5678",
+      "hwid": "",
+      "apps": [
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://raw.githubusercontent.com/.../test2_app1.txt"
+        }
+      ]
     }
+  ]
 }
-    
