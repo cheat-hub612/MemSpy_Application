@@ -20,9 +20,13 @@
       "password": "54550",
       "hwid": "675f3694bc64fe43a748e736c2ae623cdfed159d784c8ccd7f6cdd8a51d18b10",
       "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
         {
-          "appNo": 1,
-          "clientGistUrl": "https://raw.githubusercontent.com/.../test2_app1.txt"
+          "appNo": 2,
+          "clientGistUrl": "https://raw.githubusercontent.com/.../test1_app2.txt"
         }
       ]
     }
