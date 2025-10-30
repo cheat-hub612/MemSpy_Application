@@ -30,6 +30,21 @@
         }
       ]
     },
+	{
+      "username": "RafidXLiza",
+      "password": "6969",
+      "hwid": "e3b082a0e71a69fea296e1fb64ec8d12d2d340e6a280ee9b3ffaec2793c6e7fe",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 2,
+          "clientGistUrl": "https://raw.githubusercontent.com/.../test1_app2.txt"
+        }
+      ]
+    },
     {
       "username": "FINEX",
       "password": "99034",
