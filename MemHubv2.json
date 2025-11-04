@@ -45,6 +45,21 @@
         }
       ]
     },
+	  	{
+      "username": "Piyas",
+      "password": "6969",
+      "hwid": "d795c1dae3a002531f99ce9961e6c4c84cd13a2f0baf797670fd5f44d4869d43",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/3ba6c62746eb22fd8eacc50234413eb7/raw/basic.txt"
+        },
+        {
+          "appNo": 2,
+          "clientGistUrl": "https://raw.githubusercontent.com/.../test1_app2.txt"
+        }
+      ]
+    },
     {
       "username": "FINEX",
       "password": "99034",
