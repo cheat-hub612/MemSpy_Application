@@ -55,8 +55,8 @@
           "clientGistUrl": "https://gist.githubusercontent.com/piyas575/6ddbbdd07e08a590abaa407f1160f548/raw/gistfile1.txt"
         },
         {
-          "appNo": 2,
-          "clientGistUrl": "https://raw.githubusercontent.com/.../test1_app2.txt"
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/46c7ebfd95534c6872c41fa648f05ff6/raw/gistfile1.txt"
         }
       ]
     },
