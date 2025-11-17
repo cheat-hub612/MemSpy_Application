@@ -46,6 +46,10 @@
         {
           "appNo": 1,
           "clientGistUrl": "https://gist.githubusercontent.com/rafid870/dc345fdea986ecf2700e6dd2a77ca840/raw/premium.txt"
+        },
+		{
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/ced76941d70717692138c74e168cf7ff/raw/bypass.txt"
         }
       ]
     },
