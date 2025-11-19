@@ -34,6 +34,21 @@
         }
       ]
     },
+	  {
+      "username": "nirom",
+      "password": "1111",
+      "hwid": "a9012d22fcdde9bd8de8108b0be5ce93de9d23da01e824d2777b54ff0b4f606c",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/46c7ebfd95534c6872c41fa648f05ff6/raw/gistfile1.txt"
+        }
+      ]
+    },
 	{
       "username": "RafidXLiza",
       "password": "6969",
