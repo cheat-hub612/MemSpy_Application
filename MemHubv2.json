@@ -41,11 +41,19 @@
       "apps": [
 {
           "appNo": 0,
-          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/f08508ae276146ccea64a56e92fc515a/raw/ghostpremium.txt"
         },
         {
           "appNo": 1,
-          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/46c7ebfd95534c6872c41fa648f05ff6/raw/gistfile1.txt"
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/369a39306bb19f0c1af978de112dcf98/raw/gistfile1.txt"
+        },
+		{
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/047f4dbf3a723ab81828de14a052cfe5/raw/gistfile1.txt"
+        },
+		{
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/827acf280fac156d6f7839519876fefb/raw/gistfile1.txt"
         }
       ]
     },
