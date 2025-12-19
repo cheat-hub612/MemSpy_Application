@@ -50,6 +50,25 @@
       ]
     },
 	   {
+      "username": "sandesh",
+      "password": "CHEAT_HUB-51695861252",
+      "hwid": "ba9f2cf52477319f556b339a03c187e86ab81b5f99025f36b4d8458a7c21ea09",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/2dd4d0e389d29ffbd186757cfce67c54/raw/Panel_Basic"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
+        }
+		  {
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/1762694e19f7c6c82054cb4dd05b00b2/raw/Panel_Exclusive"
+        }
+      ]
+    },
+	   {
       "username": "ANAS",
       "password": "CHEAT_HUB-21549199051",
       "hwid": "5a1210fe18497c051acce41c5a09303c30682d615bd188fc187583033eaa6122",
