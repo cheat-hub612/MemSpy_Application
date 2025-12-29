@@ -126,6 +126,10 @@
 		{
           "appNo": 2,
           "clientGistUrl": "https://gist.githubusercontent.com/rafid870/ced76941d70717692138c74e168cf7ff/raw/bypass.txt"
+        },
+		{
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/b74ebb832d71569389721101ab614115/raw/internal.txt"
         }
       ]
     },
