@@ -110,6 +110,17 @@
         }
       ]
     },
+	  {
+      "username": "BPG",
+      "password": "042015",
+      "hwid": "94543ee34a275d9a74e115075a1bfe34f9db4101f6cb23f9d5aeb83d9404d34d",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/Bishan-Pankaja/a3f79f117252a691075d3b8a92d9cf05/raw/regz.txt"
+        },
+      ]
+    },
 	{
       "username": "RafidXLiza",
       "password": "6969",
