@@ -141,7 +141,11 @@
 		{
           "appNo": 3,
           "clientGistUrl": "https://gist.githubusercontent.com/rafid870/b74ebb832d71569389721101ab614115/raw/internal.txt"
-        }
+        },
+		  {
+			  "appNo": 4,
+			  "clientGistUrl": "https://gist.githubusercontent.com/rafid870/1b0714e18126d3ee2498b77fb1d2e7cd/raw/bypassaob.txt"
+		  }
       ]
     },
 	  	{
