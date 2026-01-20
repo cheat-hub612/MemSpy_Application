@@ -1,1 +1,248 @@
-x
+{
+  "users": [
+    {
+      "username": "salaar",
+      "password": "4444",
+      "hwid": "6e81a8fea6afa15c3ad9dc8e038a82b07b4a0d00f8314ad67d9a23e3ed5928da",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 6,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/2951f69849e6a7efb148d896571c8f39/raw/gistfile1.txt"
+        }
+		  {
+          "appNo": 5,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/c484576e5cd3492cd00d0d84ccd3d0b0/raw/gistfile1.txt"
+        }
+      ]
+    },
+    {
+      "username": "sleshalif",
+      "password": "54550",
+      "hwid": "edc5a7175f2fef3cad1436c7ae82cd7d843e7f08eaa151023d278b5d4e9c5d95",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/6e62751efefbd787b39da5be8e8ed072/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/46c7ebfd95534c6872c41fa648f05ff6/raw/gistfile1.txt"
+        }
+      ]
+    },
+	  {
+      "username": "shadow444",
+      "password": "CHEAT_HUB-661598723515",
+      "hwid": "9534bbcc7cf62e9719c959fc2500883e3b536b9f00a6bbdc6639228f775d5450",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/nxtkhalil21-commits/dc92c36e4acedc7c8251e188ddcfaed2/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/nxtkhalil21-commits/37013ca0dc93a7bfec081d1f48b0ff1a/raw/gistfile1.txt"
+        }
+      ]
+    },
+	   {
+      "username": "sandesh",
+      "password": "CHEAT_HUB-51695861252",
+      "hwid": "ba9f2cf52477319f556b339a03c187e86ab81b5f99025f36b4d8458a7c21ea09",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/2dd4d0e389d29ffbd186757cfce67c54/raw/Panel_Basic"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/983782c06ed088385bd4b70420452b1b/raw/Panel_Premium"
+        }
+		  {
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/Sandeshw11/1762694e19f7c6c82054cb4dd05b00b2/raw/Panel_Exclusive"
+        }
+      ]
+    },
+	   {
+      "username": "ANAS",
+      "password": "CHEAT_HUB-21549199051",
+      "hwid": "5a1210fe18497c051acce41c5a09303c30682d615bd188fc187583033eaa6122",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/mdanas3349-tech/8cce5ae66b4868be0b91af12cfe2088c/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/2951f69849e6a7efb148d896571c8f39/raw/gistfile1.txt"
+        }
+		  {
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/c484576e5cd3492cd00d0d84ccd3d0b0/raw/gistfile1.txt"
+        }
+      ]
+    },
+	  {
+      "username": "nirob",
+      "password": "1111",
+      "hwid": "a9012d22fcdde9bd8de8108b0be5ce93de9d23da01e824d2777b54ff0b4f606c",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/f08508ae276146ccea64a56e92fc515a/raw/ghostpremium.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/369a39306bb19f0c1af978de112dcf98/raw/gistfile1.txt"
+        },
+		{
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/047f4dbf3a723ab81828de14a052cfe5/raw/gistfile1.txt"
+        },
+		{
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/nirob1520/827acf280fac156d6f7839519876fefb/raw/gistfile1.txt"
+        }
+      ]
+    },
+	  {
+      "username": "BPG",
+      "password": "042015",
+      "hwid": "94543ee34a275d9a74e115075a1bfe34f9db4101f6cb23f9d5aeb83d9404d34d",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/Bishan-Pankaja/a3f79f117252a691075d3b8a92d9cf05/raw/regz.txt"
+        },
+      ]
+    },
+	{
+      "username": "RafidXLiza",
+      "password": "6969",
+      "hwid": "514f185f75e5de0128697c04b51316ed412cd319a280ee9b3ffaec2793c6e7fe",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/3ba6c62746eb22fd8eacc50234413eb7/raw/basic.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/dc345fdea986ecf2700e6dd2a77ca840/raw/premium.txt"
+        },
+		{
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/ced76941d70717692138c74e168cf7ff/raw/bypass.txt"
+        },
+		{
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/rafid870/b74ebb832d71569389721101ab614115/raw/internal.txt"
+        },
+		  {
+			  "appNo": 4,
+			  "clientGistUrl": "https://gist.githubusercontent.com/rafid870/1b0714e18126d3ee2498b77fb1d2e7cd/raw/bypassaob.txt"
+		  }
+      ]
+    },
+	  	{
+      "username": "Piyas",
+      "password": "CHEAT_HUB-99612690612",
+      "hwid": "656a5b25715fb5ac95665366b0195f37df2ea9d00baf797670fd5f44d4869d43",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/82211d143a5632bad629a2af773cfd04/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/4cb08c9f98a88633f0259262216ae5ee/raw/gistfile1.txt"
+        }
+		 {
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/adeaf057dd7a0cc37961ad6fe1b3e4b4/raw/gistfile1.txt"
+        }
+		   {
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/piyas575/0e36ae4fc1b655ae44db984bd8c646ff/raw/gistfile1.txt"
+        }
+      ]
+    },
+    {
+      "username": "FINEX",
+      "password": "CHEAT_HUB-61299034612",
+      "hwid": "ae1adeb64704f4e8befd4e2867792d2b5aef9d620a2f9a8d36aeeba5336724be",
+      "apps": [
+{
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/5ad0d8515386d78bd85b820d96ac2716/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/8259b32f486f827bc5f93a0aae5763c6/raw/gistfile1.txt"
+        },
+
+{
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/d4c2f9138090c4c5d754e369e4c46512/raw/gistfile1.txt"
+        },
+{
+          "appNo": 3,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/3b83291b640c5b9f9a0c366621847663/raw/gistfile1.txt"
+        },
+{
+          "appNo": 4,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/5193136ab6c36a0f6b79892ed33c85c7/raw/gistfile1.txt"
+        },
+{
+          "appNo": 5,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/ff0495b8a41ed9020db3fbd228799382/raw/gistfile1.txt"
+        },
+{
+          "appNo": 6,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/debe65ad13e4c117a13d9fef09d66c45/raw/gistfile1.txt"
+        },
+{
+          "appNo": 7,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/a4e44926f032ed0579bcaff5abebe90c/raw/gistfile1.txt"
+        },
+{
+          "appNo": 8,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/7bc94028dc34a5d1706e2fa7afe36e4b/raw/gistfile1.txt"
+        },
+{
+          "appNo": 9,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/879bc3b56e0babee84a083929d1bc9e7/raw/gistfile1.txt"
+        },
+{
+          "appNo": 10,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/44540d77a92b8104f97388ab28c939cf/raw/gistfile1.txt"
+        },
+{
+          "appNo": 11,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/ea16d282c53e3018d081f44da2edd29b/raw/gistfile1.txt"
+        },
+{
+          "appNo": 12,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/c615fe44ab6f9600f946d30a779c7b90/raw/gistfile1.txt"
+        },
+{
+          "appNo": 13,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/ca4d1908f5cc45b02e579d1ceda828f1/raw/gistfile1.txt"
+        },
+{
+          "appNo": 14,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/3a7ed6d3eb5cec3d4b1c5c81562365e4/raw/gistfile1.txt"
+        },
+{
+          "appNo": 15,
+          "clientGistUrl": "https://gist.githubusercontent.com/sagor56879/e4d12ae741c93ef2b2bdb806e1a53e54/raw/gistfile1.txt"
+        }
+      ]
+    },
+  ]
+}
+
