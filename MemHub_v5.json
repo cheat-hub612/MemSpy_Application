@@ -87,6 +87,25 @@
         }
       ]
     },
+	 {
+      "username": "C",
+      "password": "CHEAT_HUB-61256912654",
+      "hwid": "4f2d49cb47443581b378700bf44c531dd17a5a9c9848e1ae312c5127ccd2cf12",
+      "apps": [
+        {
+          "appNo": 0,
+          "clientGistUrl": "https://gist.githubusercontent.com/mdanas3349-tech/8cce5ae66b4868be0b91af12cfe2088c/raw/gistfile1.txt"
+        },
+        {
+          "appNo": 1,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/2951f69849e6a7efb148d896571c8f39/raw/gistfile1.txt"
+        }
+		  {
+          "appNo": 2,
+          "clientGistUrl": "https://gist.githubusercontent.com/cheat-hub612/c484576e5cd3492cd00d0d84ccd3d0b0/raw/gistfile1.txt"
+        }
+      ]
+    },
 	  {
       "username": "nirob",
       "password": "1111",
